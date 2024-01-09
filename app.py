@@ -30,8 +30,6 @@ class WebcamApp:
         self.canvas.delete("all")
 
     def update_webcam_face(self):
-        print("come on")
-
         if self.camera == False:
             return
         ret, frame = self.video_capture.read()
@@ -95,7 +93,6 @@ class MediaApp:
         self.play_video()
 
     def play_video(self):
-        print("heja")
         ret, frame = self.cap.read()
         if ret:
             gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
