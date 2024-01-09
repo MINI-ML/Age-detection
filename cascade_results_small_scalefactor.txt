@@ -1,0 +1,263 @@
+Evaluating with scaleFactor=1.01 and minNeighbors=2
+True Positives: 132
+False Positives: 21
+False Negatives: 16
+Precision: 0.86
+Recall: 0.89
+F1 Score: 0.88
+
+Evaluating with scaleFactor=1.01 and minNeighbors=3
+True Positives: 129
+False Positives: 23
+False Negatives: 17
+Precision: 0.85
+Recall: 0.88
+F1 Score: 0.87
+
+Evaluating with scaleFactor=1.01 and minNeighbors=4
+True Positives: 128
+False Positives: 24
+False Negatives: 17
+Precision: 0.84
+Recall: 0.88
+F1 Score: 0.86
+
+Evaluating with scaleFactor=1.02 and minNeighbors=2
+True Positives: 130
+False Positives: 29
+False Negatives: 10
+Precision: 0.82
+Recall: 0.93
+F1 Score: 0.87
+
+Evaluating with scaleFactor=1.02 and minNeighbors=3
+True Positives: 126
+False Positives: 25
+False Negatives: 18
+Precision: 0.83
+Recall: 0.88
+F1 Score: 0.85
+
+Evaluating with scaleFactor=1.02 and minNeighbors=4
+True Positives: 123
+False Positives: 20
+False Negatives: 26
+Precision: 0.86
+Recall: 0.83
+F1 Score: 0.84
+
+Evaluating with scaleFactor=1.03 and minNeighbors=2
+True Positives: 123
+False Positives: 28
+False Negatives: 18
+Precision: 0.81
+Recall: 0.87
+F1 Score: 0.84
+
+Evaluating with scaleFactor=1.03 and minNeighbors=3
+True Positives: 121
+False Positives: 21
+False Negatives: 27
+Precision: 0.85
+Recall: 0.82
+F1 Score: 0.83
+
+Evaluating with scaleFactor=1.03 and minNeighbors=4
+True Positives: 117
+False Positives: 17
+False Negatives: 35
+Precision: 0.87
+Recall: 0.77
+F1 Score: 0.82
+
+Evaluating with scaleFactor=1.04 and minNeighbors=2
+True Positives: 120
+False Positives: 22
+False Negatives: 27
+Precision: 0.85
+Recall: 0.82
+F1 Score: 0.83
+
+Evaluating with scaleFactor=1.04 and minNeighbors=3
+True Positives: 114
+False Positives: 19
+False Negatives: 36
+Precision: 0.86
+Recall: 0.76
+F1 Score: 0.81
+
+Evaluating with scaleFactor=1.04 and minNeighbors=4
+True Positives: 112
+False Positives: 12
+False Negatives: 45
+Precision: 0.90
+Recall: 0.71
+F1 Score: 0.80
+
+Evaluating with scaleFactor=1.05 and minNeighbors=2
+True Positives: 123
+False Positives: 26
+False Negatives: 20
+Precision: 0.83
+Recall: 0.86
+F1 Score: 0.84
+
+Evaluating with scaleFactor=1.05 and minNeighbors=3
+True Positives: 116
+False Positives: 25
+False Negatives: 28
+Precision: 0.82
+Recall: 0.81
+F1 Score: 0.81
+
+Evaluating with scaleFactor=1.05 and minNeighbors=4
+True Positives: 111
+False Positives: 12
+False Negatives: 46
+Precision: 0.90
+Recall: 0.71
+F1 Score: 0.79
+
+Evaluating with scaleFactor=1.06 and minNeighbors=2
+True Positives: 118
+False Positives: 24
+False Negatives: 27
+Precision: 0.83
+Recall: 0.81
+F1 Score: 0.82
+
+Evaluating with scaleFactor=1.06 and minNeighbors=3
+True Positives: 115
+False Positives: 18
+False Negatives: 36
+Precision: 0.86
+Recall: 0.76
+F1 Score: 0.81
+
+Evaluating with scaleFactor=1.06 and minNeighbors=4
+True Positives: 112
+False Positives: 13
+False Negatives: 44
+Precision: 0.90
+Recall: 0.72
+F1 Score: 0.80
+
+Evaluating with scaleFactor=1.07 and minNeighbors=2
+True Positives: 112
+False Positives: 30
+False Negatives: 27
+Precision: 0.79
+Recall: 0.81
+F1 Score: 0.80
+
+Evaluating with scaleFactor=1.07 and minNeighbors=3
+True Positives: 110
+False Positives: 21
+False Negatives: 38
+Precision: 0.84
+Recall: 0.74
+F1 Score: 0.79
+
+Evaluating with scaleFactor=1.07 and minNeighbors=4
+True Positives: 108
+False Positives: 23
+False Negatives: 38
+Precision: 0.82
+Recall: 0.74
+F1 Score: 0.78
+
+Evaluating with scaleFactor=1.08 and minNeighbors=2
+True Positives: 112
+False Positives: 12
+False Negatives: 45
+Precision: 0.90
+Recall: 0.71
+F1 Score: 0.80
+
+Evaluating with scaleFactor=1.08 and minNeighbors=3
+True Positives: 106
+False Positives: 17
+False Negatives: 46
+Precision: 0.86
+Recall: 0.70
+F1 Score: 0.77
+
+Evaluating with scaleFactor=1.08 and minNeighbors=4
+True Positives: 105
+False Positives: 18
+False Negatives: 46
+Precision: 0.85
+Recall: 0.70
+F1 Score: 0.77
+
+Evaluating with scaleFactor=1.09 and minNeighbors=2
+True Positives: 112
+False Positives: 12
+False Negatives: 45
+Precision: 0.90
+Recall: 0.71
+F1 Score: 0.80
+
+Evaluating with scaleFactor=1.09 and minNeighbors=3
+True Positives: 109
+False Positives: 15
+False Negatives: 45
+Precision: 0.88
+Recall: 0.71
+F1 Score: 0.78
+
+Evaluating with scaleFactor=1.09 and minNeighbors=4
+True Positives: 104
+False Positives: 19
+False Negatives: 46
+Precision: 0.85
+Recall: 0.69
+F1 Score: 0.76
+
+Evaluating with scaleFactor=1.1 and minNeighbors=2
+True Positives: 107
+False Positives: 25
+False Negatives: 37
+Precision: 0.81
+Recall: 0.74
+F1 Score: 0.78
+
+Evaluating with scaleFactor=1.1 and minNeighbors=3
+True Positives: 103
+False Positives: 20
+False Negatives: 46
+Precision: 0.84
+Recall: 0.69
+F1 Score: 0.76
+
+Evaluating with scaleFactor=1.1 and minNeighbors=4
+True Positives: 98
+False Positives: 25
+False Negatives: 46
+Precision: 0.80
+Recall: 0.68
+F1 Score: 0.73
+
+Evaluating with scaleFactor=1.11 and minNeighbors=2
+True Positives: 107
+False Positives: 26
+False Negatives: 36
+Precision: 0.80
+Recall: 0.75
+F1 Score: 0.78
+
+Evaluating with scaleFactor=1.11 and minNeighbors=3
+True Positives: 105
+False Positives: 27
+False Negatives: 37
+Precision: 0.80
+Recall: 0.74
+F1 Score: 0.77
+
+Evaluating with scaleFactor=1.11 and minNeighbors=4
+True Positives: 101
+False Positives: 22
+False Negatives: 46
+Precision: 0.82
+Recall: 0.69
+F1 Score: 0.75
