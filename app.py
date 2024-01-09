@@ -3,7 +3,6 @@ from tkinter import filedialog
 import cv2 
 from PIL import Image, ImageTk
 import os
-
 import cv2
 
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
@@ -19,8 +18,6 @@ class WebcamApp:
         download_button.config(command=self.download_image)
         start_camera_button.config(command=self.start_camera)
         stop_camera_button.config(command=self.stop_camera)
-
-        # self.update_webcam()
 
     def start_camera(self):
         self.camera = True
@@ -143,16 +140,3 @@ if __name__ == "__main__":
     load_video_button.grid(row=3, column=1)
     load_image_button.grid(row=4, column=1)
     window.mainloop()
-
-
-
-    # def update_webcam(self):
-    #     print("come one")
-    #     if self.camera == False:
-    #         return
-    #     ret, frame = self.video_capture.read()
-    #     if ret:
-    #         self.current_image = Image.fromarray(cv2.cvtColor(frame, cv2.COLOR_BGR2RGB))
-    #         self.photo = ImageTk.PhotoImage(image=self.current_image)
-    #         self.canvas.create_image(0,0, image=self.photo, anchor=tk.NW)
-    #         window.after(15, self.update_webcam)
